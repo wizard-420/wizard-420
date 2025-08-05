@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Supratick%20Dey-Profile-blueviolet" alt="Profile Card" />
-</p>
-
 ---
-
 ## 👋 Hello, I’m **Supratick Dey**
 
 🎯 **Go Developer** | 3+ years of experience building scalable, high-performance back-end systems and RESTful APIs
@@ -22,23 +17,33 @@
 At Craft Silicon I deepened my domain knowledge in **loan origination** and **loan management**—key modules of their flagship Bankers Realm platform—delivered to marquee clients such as **Ujjivan Small Finance Bank** and **Tsedey Bank** .
 
 ---
+<div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Gin-0E65E9?logo=gin&logoColor=white" alt="Gin" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/REST-1E88E5?logo=rest&logoColor=white" alt="REST" />
+  <img src="https://img.shields.io/badge/gRPC-528ADC?logo=grpc&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Tableau-00A1E0?logo=tableau&logoColor=white" alt="Tableau" />
+</div>
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks:**  
-  ![Go][go] `Go` • ![Gin][gin] `Gin` • ![REST][rest] `RESTful APIs` • ![gRPC][grpc] `gRPC`
-
-- **Databases & Caching:**  
-  ![PostgreSQL][pgsql] `PostgreSQL` • ![SQL Server][mssql] `MS SQL Server (T-SQL)` • ![Redis][redis] `Redis`
-
-- **Messaging & Events:**  
-  ![Kafka][kafka] `Kafka (Pub/Sub, Streams)`
-
-- **Cloud & DevOps:**  
-  ![AWS][aws] `AWS (EC2, S3, Lambda, SQS, SNS)` • ![GitHub Actions][gha] `GitHub Actions (CI/CD)`
-
-- **Testing & Quality:**  
-  `GoMock` • Unit & Integration Testing • Benchmarking & Profiling
+| Category                   | Technologies                                                                                 |
+| -------------------------- | ---------------------------------------------------------------------------------------------|
+| **Languages**              | Go, Python, C#                                                                               |
+| **Frameworks & APIs**      | Gin, Flask, Django, Unity, RESTful APIs, gRPC                                                |
+| **Databases & Caching**    | PostgreSQL, MS SQL Server (T-SQL), Redis                                                     |
+| **Messaging & Events**     | Kafka (Pub/Sub, Streams)                                                                     |
+| **Data Science & ML**      | NumPy, pandas, TensorFlow                                                                    |
+| **Visualization & BI**     | Tableau                                                                                      |
+| **Cloud & DevOps**         | AWS (EC2, S3, Lambda, SQS, SNS), GitHub Actions (CI/CD)                                      |
+| **Testing & Quality**      | GoMock, Unit & Integration Testing, Benchmarking, Profiling                                  |
 
 ---
 
