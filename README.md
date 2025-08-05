@@ -1,109 +1,99 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Supratick%20Dey-Profile-blueviolet" alt="Profile Card" />
-</p>
+<!-- ================= PROFILE HEADER ================ -->
+# 👋 Hi, I’m **Supratick Dey**
+
+> 🎯 **Go Developer** | 3+ years in building high-performance backend & RESTful APIs
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gin-0E65E9?logo=gin&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <a href="https://github.com/supratickdey">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/supratickdey?label=Follow&style=social">
+  </a>
+  <a href="https://github.com/supratickdey/supratickdey">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=supratickdey&color=brightgreen">
+  </a>
 </div>
-
----
-
-## 👋 Hello, I’m **Supratick Dey**
-
-🎯 **Go Developer** with **3+ years** of experience building **scalable**, **high-performance** backend systems and RESTful APIs.
-
-- 💡 **Clean Architecture**: Handlers → Services → Repositories  
-- 🚀 **Performance**: 40% API latency reduction under peak load  
-- 🔄 **Event-Driven**: Kafka pipelines processing 500K+ messages/day  
-- 🧪 **Testing**: Unit, Integration, Benchmarking, Profiling  
-
----
-
-## 🏦 Craft Silicon (Fintech Expertise)
-
-> **Craft Silicon** is a 360° financial-technology partner powering **300+** institutions across **40+** countries with core banking (Bankers Realm), microfinance, mCommerce, mobile banking (ELMA), and digital-transformation solutions :contentReference[oaicite:0]{index=0}.
-
-While at Craft Silicon, I deepened my expertise in **loan origination** and **loan management** modules—integral parts of their flagship **Bankers Realm** platform—delivered to marquee clients like **Ujjivan Finance** and **Tsedey Bank** :contentReference[oaicite:1]{index=1}.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category                | Technologies                                                                      |
-|-------------------------|-----------------------------------------------------------------------------------|
-| **Languages & APIs**    | Go, Gin, REST, gRPC                                                               |
-| **Databases & Caching** | PostgreSQL, MS SQL Server, Redis                                                 |
-| **Messaging**           | Kafka (Producers & Consumers, Pub/Sub)                                            |
-| **Cloud & DevOps**      | AWS (EC2, S3, Lambda, SQS, SNS), GitHub Actions (CI/CD)                           |
-| **Testing & Quality**   | GoMock, Unit & Integration Tests, TDD, Benchmarking, Profiling                    |
+| **Core**           | **Cloud & DevOps**                           | **Messaging & Data**                |
+| ------------------ | -------------------------------------------- | ----------------------------------- |
+| ![Go][go] `Go`     | ![AWS][aws] `AWS`                            | ![Kafka][kafka] `Kafka`             |
+| ![Gin][gin] `Gin`  | ![GitHub Actions][gha] `CI/CD`               | ![PostgreSQL][pgsql] `PostgreSQL`   |
+| ![gRPC][grpc]      |                                              | ![Redis][redis] `Redis`             |
 
 ---
 
 ## 💼 Experience
 
 <details>
-  <summary>🧑‍💻 <strong>Software Development Engineer</strong> @ Craft Silicon <i>(Aug 2023 – May 2025)</i></summary>
-  
-  - Introduced Redis caching, cutting API latency by 10%.  
-  - Built Kafka ingestion pipelines processing 500K+ messages/day.  
-  - Refactored monolith into Go microservices—improved throughput by 2.7×.  
-  - Optimized SQL queries—15% faster execution, 20% lower DB load.  
-  - Elevated test coverage from 60% → 85%.  
-  - **Loan Systems**: Worked on loan origination & management modules within Bankers Realm core banking, serving Ujjivan Finance and Tsedey Bank.  
+<summary>🧑‍💻 <strong>Software Development Engineer</strong> @ Craft Silicon <em>(Aug 2023 – May 2025)</em></summary>
+
+- 🚀 Introduced **Redis caching** → 10% latency cut  
+- 🔄 Built **Kafka ingestion** pipelines (500K+ msgs/day)  
+- ⚙️ Refactored monolith into Go microservices → 2.7× throughput  
+- 🗄️ Optimized SQL → 15% faster & 20% lower DB load  
+- 🧪 Raised test coverage 60% → 85%  
+- 🏦 Worked on **loan origination & management** modules in their Bankers Realm core-banking suite for clients like Ujjivan Finance and Tsedey Bank  
 </details>
 
 <details>
-  <summary>👨‍💻 <strong>Associate Software Development Engineer</strong> @ Craft Silicon <i>(Aug 2022 – Aug 2023)</i></summary>
+<summary>👨‍💻 <strong>Associate SDE</strong> @ Craft Silicon <em>(Aug 2022 – Aug 2023)</em></summary>
 
-  - Enhanced report generation performance using Go concurrency (25% faster).  
-  - Built JWT-based RBAC middleware and centralized logging.  
-  - Delivered comprehensive test suites and performance benchmarks.  
+- ⚡ Improved reporting via Go concurrency → 25% faster  
+- 🔐 Built JWT-RBAC middleware & centralized logging  
+- 🧰 Developed comprehensive test suites & benchmarks  
 </details>
 
 ---
 
-## 🧑‍🔧 Freelance Project
+## 🧑‍🔧 Freelance: **Sellular** (Jun 2025 – Aug 2025)
 
-### 📱 **Sellular** – Peer-to-Peer & Marketplace Platform  
-🗓️ *June 2025 – August 2025*
+| ![Sellular][play] |
+| :----------------: |
+| [Visit on Play Store](https://play.google.com/store/apps/details?id=com.sellular.app) |
 
-- Built scalable Go backend with **Gin**, **SQLX**, and **PostgreSQL**.  
-- Designed clean layered architecture: handler → service → repository.  
-- Implemented chat-based listings, S3 uploads, tagging, and college-specific settings.  
-- Developed REST APIs for onboarding, listings, chats, purchases, and refunds.  
-- Delivered rapid MVP with caching, validation, and dynamic configuration.  
-
-👉 [**View on Play Store**](https://play.google.com/store/apps/details?id=com.sellular.app)
+- 🏗️ Go backend with **Gin**, **SQLX**, **PostgreSQL**  
+- 📐 Clean architecture: Handler → Service → Repository  
+- 💬 Chat flows, S3 uploads, product tagging, college-specific settings  
+- 🔗 End-to-end APIs: onboarding, listings, chats, purchases, refunds  
 
 ---
 
-## 🚀 Work Projects
+## 🚀 Key Projects
 
-### 🔹 Datalake Integration  
-- Kafka-based Go service; idempotent retry logic delivering **99.9%** success at **1M events/hr** (<100ms latency).  
-
-### 🔹 Payment Refund System  
-- Automated chargebacks & partial refunds; **95%** automation within 2h; robust E2E tests.  
+- **Datalake Integration**  
+  Kafka-based Go service, idempotent retry logic → 99.9% delivery, 1M events/hr (<100ms)  
+- **Payment Refund System**  
+  Automated 95% refunds in <2 hrs, robust E2E tests  
 
 ---
 
 ## 🎓 Education
 
-🎓 **MCA**, AMC Engineering College  
-📅 *Jan 2020 – July 2022*
+**MCA**, AMC Engineering College  
+Jan 2020 – Jul 2022
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect
 
-- 📧 [Email](mailto:dey.supratick98@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/supratick-dey-9b255b226/)  
-- 🐙 [GitHub](https://github.com/supratickdey)
+<div align="center">
+  <a href="mailto:dey.supratick98@gmail.com">✉️ Email</a> •
+  <a href="https://www.linkedin.com/in/supratick-dey-9b255b226/">🔗 LinkedIn</a> •
+  <a href="https://github.com/supratickdey">🐙 GitHub</a>
+</div>
 
 ---
 
-<p align="center"><em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em></p>
+<sup>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</sup>
+
+[go]: https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white
+[gin]: https://img.shields.io/badge/Gin-0E65E9?logo=gin&logoColor=white
+[grpc]: https://img.shields.io/badge/gRPC-528ADC?logo=grpc&logoColor=white
+[aws]: https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white
+[gha]: https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white
+[kafka]: https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white
+[pgsql]: https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white
+[redis]: https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white
+[play]: https://img.shields.io/badge/Google_Play-3DDC84?logo=google-play&logoColor=white
