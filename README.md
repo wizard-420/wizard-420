@@ -1,82 +1,109 @@
-# 👋 Hi there, I'm Supratick Dey
+<p align="center">
+  <img src="https://img.shields.io/badge/Supratick%20Dey-Profile-blueviolet" alt="Profile Card" />
+</p>
 
-🎯 **Go Developer** with 2.10 years of experience building high-performance, scalable back-end systems and RESTful APIs.
+<div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gin-0E65E9?logo=gin&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+</div>
 
-- 💡 Architected and delivered robust microservices in **Go** using **clean architecture** principles.
-- 🚀 Optimized API latency by 40% under peak load with strategic use of **Redis** caching and handler refactoring.
-- 🔄 Built event-driven systems with **Kafka**, handling over 500K messages/day.
-- 🧪 Strong focus on testing – from unit to integration and benchmarking with Go tooling.
+---
+
+## 👋 Hello, I’m **Supratick Dey**
+
+🎯 **Go Developer** with **3+ years** of experience building **scalable**, **high-performance** backend systems and RESTful APIs.
+
+- 💡 **Clean Architecture**: Handlers → Services → Repositories  
+- 🚀 **Performance**: 40% API latency reduction under peak load  
+- 🔄 **Event-Driven**: Kafka pipelines processing 500K+ messages/day  
+- 🧪 **Testing**: Unit, Integration, Benchmarking, Profiling  
+
+---
+
+## 🏦 Craft Silicon (Fintech Expertise)
+
+> **Craft Silicon** is a 360° financial-technology partner powering **300+** institutions across **40+** countries with core banking (Bankers Realm), microfinance, mCommerce, mobile banking (ELMA), and digital-transformation solutions :contentReference[oaicite:0]{index=0}.
+
+While at Craft Silicon, I deepened my expertise in **loan origination** and **loan management** modules—integral parts of their flagship **Bankers Realm** platform—delivered to marquee clients like **Ujjivan Finance** and **Tsedey Bank** :contentReference[oaicite:1]{index=1}.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-`Go (Gin, goroutines, channels)` • `SQL` • `T-SQL` • `REST & gRPC APIs` • `Microservices`
-
-**Databases & Caching**  
-`PostgreSQL` • `MS SQL Server` • `Redis`
-
-**Messaging & Events**  
-`Kafka` (producers, consumers, pub/sub)
-
-**Cloud & DevOps**  
-`AWS` (EC2, S3, Lambda, SQS, SNS) • `GitHub Actions` • `CI/CD Pipelines`
-
-**Testing & Optimization**  
-`GoMock` • `Unit & Integration Tests` • `Benchmarking` • `Profiling` • `TDD`
+| Category                | Technologies                                                                      |
+|-------------------------|-----------------------------------------------------------------------------------|
+| **Languages & APIs**    | Go, Gin, REST, gRPC                                                               |
+| **Databases & Caching** | PostgreSQL, MS SQL Server, Redis                                                 |
+| **Messaging**           | Kafka (Producers & Consumers, Pub/Sub)                                            |
+| **Cloud & DevOps**      | AWS (EC2, S3, Lambda, SQS, SNS), GitHub Actions (CI/CD)                           |
+| **Testing & Quality**   | GoMock, Unit & Integration Tests, TDD, Benchmarking, Profiling                    |
 
 ---
 
 ## 💼 Experience
 
-### 🧑‍💻 Software Development Engineer  
-**Craft Silicon**  
-*Aug 2023 – May 2025*
+<details>
+  <summary>🧑‍💻 <strong>Software Development Engineer</strong> @ Craft Silicon <i>(Aug 2023 – May 2025)</i></summary>
+  
+  - Introduced Redis caching, cutting API latency by 10%.  
+  - Built Kafka ingestion pipelines processing 500K+ messages/day.  
+  - Refactored monolith into Go microservices—improved throughput by 2.7×.  
+  - Optimized SQL queries—15% faster execution, 20% lower DB load.  
+  - Elevated test coverage from 60% → 85%.  
+  - **Loan Systems**: Worked on loan origination & management modules within Bankers Realm core banking, serving Ujjivan Finance and Tsedey Bank.  
+</details>
 
-- Introduced Redis caching, cutting API latency by 10%.
-- Built Kafka pipelines for near-real-time ingestion of 500K+ messages/day.
-- Refactored monolith into Go microservices – improved throughput by **2.7×**.
-- Improved SQL query efficiency – cut runtime by 15%, reduced DB load by 20%.
-- Boosted test coverage from 60% → 85%.
+<details>
+  <summary>👨‍💻 <strong>Associate Software Development Engineer</strong> @ Craft Silicon <i>(Aug 2022 – Aug 2023)</i></summary>
 
-### 👨‍💻 Associate Software Development Engineer  
-**Craft Silicon**  
-*Aug 2022 – Aug 2023*
-
-- Enhanced report generation performance using Go concurrency (25% faster).
-- Built JWT-based RBAC middleware and centralized logging system.
-- Delivered comprehensive test suites and benchmarks for backend modules.
+  - Enhanced report generation performance using Go concurrency (25% faster).  
+  - Built JWT-based RBAC middleware and centralized logging.  
+  - Delivered comprehensive test suites and performance benchmarks.  
+</details>
 
 ---
 
-## 🚀 Key Projects
+## 🧑‍🔧 Freelance Project
+
+### 📱 **Sellular** – Peer-to-Peer & Marketplace Platform  
+🗓️ *June 2025 – August 2025*
+
+- Built scalable Go backend with **Gin**, **SQLX**, and **PostgreSQL**.  
+- Designed clean layered architecture: handler → service → repository.  
+- Implemented chat-based listings, S3 uploads, tagging, and college-specific settings.  
+- Developed REST APIs for onboarding, listings, chats, purchases, and refunds.  
+- Delivered rapid MVP with caching, validation, and dynamic configuration.  
+
+👉 [**View on Play Store**](https://play.google.com/store/apps/details?id=com.sellular.app)
+
+---
+
+## 🚀 Work Projects
 
 ### 🔹 Datalake Integration  
-- Developed Kafka-based Go service for ingestion pipelines.
-- Idempotent event processing with retry logic for **99.9% delivery success**.
-- Benchmarked performance: **1M events/hour** at `<100ms` latency.
+- Kafka-based Go service; idempotent retry logic delivering **99.9%** success at **1M events/hr** (<100ms latency).  
 
 ### 🔹 Payment Refund System  
-- Automated chargebacks and partial refunds in billing service.
-- Achieved **95% refund automation within 2 hours**, reducing manual load by 80%.
-- Ensured system reliability with integration tests and E2E benchmarks.
+- Automated chargebacks & partial refunds; **95%** automation within 2h; robust E2E tests.  
 
 ---
 
 ## 🎓 Education
 
-**MCA**, AMC Engineering College  
-*Jan 2020 – July 2022*
+🎓 **MCA**, AMC Engineering College  
+📅 *Jan 2020 – July 2022*
 
 ---
 
 ## 🌐 Connect with Me
 
-- 📧 Email: [dey.supratick98@gmail.com](mailto:dey.supratick98@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/supratick-dey-9b255b226](https://www.linkedin.com/in/supratick-dey-9b255b226)  
-- 🐙 GitHub: [github.com/supratickdey](https://github.com/supratickdey)
+- 📧 [Email](mailto:dey.supratick98@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/supratick-dey-9b255b226/)  
+- 🐙 [GitHub](https://github.com/supratickdey)
 
 ---
 
-_Thanks for visiting my profile! Feel free to explore my projects and connect!_
+<p align="center"><em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em></p>
